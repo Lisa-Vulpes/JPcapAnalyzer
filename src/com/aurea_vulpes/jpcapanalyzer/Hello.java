@@ -1,4 +1,4 @@
-package com.aurea_vulpes.JPcapAnalyzer;
+package com.aurea_vulpes.jpcapanalyzer;
 
 public class Hello {
 
